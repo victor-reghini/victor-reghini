@@ -50,6 +50,7 @@ Curently learning Java and Angular, but with some other tech on the line: R, C++
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 <!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
 <!-- ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white) -->
 
@@ -88,9 +89,7 @@ Curently learning Java and Angular, but with some other tech on the line: R, C++
 
 </p>
 
-<br>
-
-## <b> Let's Connect..!</b>
+## 🔗 Let's Connect
 
 <div align='left'>
 
