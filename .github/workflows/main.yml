@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Snake
 
 on:
   [push]
@@ -15,12 +15,12 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ankitwasankar
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: VictorReghini
+          svg_out_path: workflows/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: main
+          build_dir: workflows
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
