@@ -6,12 +6,10 @@
 - 👨‍💻 A Self-taught Fullstack developer.
 - 🏃 Running and 📖 Studying in spare time.
 - 🌐 Personal website [link](https://reghini.dev/)
-- 🧐 Interested in data base administration, Recently focusing on backend to improve my data management skills.
+- 🧐 Interested in data base administration, recently focusing on backend to improve my data management skills.
 - 💼 Mid-End Support Analyst at Anymarket (DB1 Group).
 - 🎓 Associates Degree in System Analysis and Development - Unicesumar.
 - 🌱 Currently learning Java & Angular.
-
-<br>
 
 # 🥸 About Me
 
