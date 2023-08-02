@@ -7,7 +7,7 @@
 - 🏃 Running and 📖 Studying in spare time.
 - 🌐 Personal website [link](https://reghini.dev/)
 - 🧐 Interested in data base administration, recently focusing on backend to improve my data management skills.
-- 💼 Mid-End Support Analyst at Anymarket (DB1 Group).
+- 💼 Mid-End Support Analyst at Anymarket (DB1 Group). [Job Opportunities at DB1](https://db1group.pinpointhq.com/refer/xr3dk)
 - 🎓 Associates Degree in System Analysis and Development - Unicesumar.
 - 🌱 Currently learning Java & Angular.
 
