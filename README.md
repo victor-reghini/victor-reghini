@@ -6,15 +6,15 @@
 - 🏃 Running and 📖 Studying in spare time.
 - 🌐 Personal website [link](https://reghini.dev/)
 - 🧐 Interested in data base administration, recently focusing on backend to improve my data management skills.
-- 💼 Mid-Level Support Analyst at Anymarket (DB1 Group). [Job Opportunities at DB1](https://db1group.pinpointhq.com/refer/xr3dk)
+- 💼 Trainee Developer at Anymarket (DB1 Group). [Job Opportunities at DB1](https://db1group.pinpointhq.com/refer/xr3dk)
 - 🎓 Associates Degree in System Analysis and Development - Unicesumar.
 - 🌱 Currently studying Java & Angular.
 
 # 🥸 About Me
 
 <p align="justify">
-As a beginner programmer I enjoy coding to solve simple daily problems, like concatenating text, doing repetitive work ou even searching for specific information on public apis. I started as a front-end developer with JavaScript, TypeScript and React before entering an ecommerce company, where I work as a Support Analyst helping clients and evidentiating bugs and client improvement recomendations. Now I am studying to become a Data Base Administrator (I know it's a long path) making my way through backend development while I study more about Data Bases.
-Curently studying Java and Angular, but with some other tech on the line: R, C++, Ruby and Rust.
+As a beginner programmer I enjoy coding to solve simple daily problems, like concatenating text, doing repetitive work ou even searching for specific information on public apis. I started as a front-end developer with JavaScript, TypeScript and React before entering an ecommerce company, where I worked as a Support Analyst helping clients and evidentiating bugs and client improvement recomendations. Now I am working as a Trainee Developer learning and developing new functionalities at Anymarket.
+Curently studying Java, Spring and Angular, but with some other tech on the line: R, C++, Ruby and Rust.
 </p>
 
 # 🧠 Skills
