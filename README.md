@@ -2,19 +2,19 @@
 <sup><sup>🤖 General Kenobi</sup></sup>
 <br>
 
-- 👨‍💻 A Self-taught Fullstack developer.
+- 👨‍💻 A Self-taught Full Stack developer.
 - 🏃 Running and 📖 Studying in spare time.
 - 🌐 Personal website [link](https://reghini.dev/)
-- 🧐 Interested in data base administration, recently focusing on backend to improve my data management skills.
-- 💼 Trainee Developer at Anymarket (DB1 Group). [Job Opportunities at DB1](https://db1group.pinpointhq.com/refer/xr3dk)
+- 🧐 Interested in data base administration and project architecture, currently focusing on backend and full stack development.
+- 💼 Junior Full Stack Java Developer at Anymarket (DB1 Group). [Job Opportunities at DB1](https://db1group.pinpointhq.com/refer/xr3dk)
 - 🎓 Associates Degree in System Analysis and Development - Unicesumar.
 - 🌱 Currently studying Java & Angular.
 
 # 🥸 About Me
 
 <p align="justify">
-As a beginner programmer I enjoy coding to solve simple daily problems, like concatenating text, doing repetitive work ou even searching for specific information on public apis. I started as a front-end developer with JavaScript, TypeScript and React before entering an ecommerce company, where I worked as a Support Analyst helping clients and evidentiating bugs and client improvement recomendations. Now I am working as a Trainee Developer learning and developing new functionalities at Anymarket.
-Curently studying Java, Spring and Angular, but with some other tech on the line: R, C++, Ruby and Rust.
+As a beginner programmer I enjoy coding to solve simple daily problems, like concatenating text, doing repetitive work ou even searching for specific information on public apis. I started as a front-end developer with JavaScript, TypeScript and React before entering an ecommerce company, where I worked as a Support Analyst helping clients and evidentiating bugs and client improvement recomendations. Now I am working as a Junior Full Stack Java Developer learning and developing new functionalities at Anymarket.
+Curently studying Java, Spring and Angular, but with some other tech on the line: rabitmq, aws, kafka and redis.
 </p>
 
 # 🧠 Skills
