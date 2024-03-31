@@ -5,15 +5,15 @@
 - 👨‍💻 A Self-taught Full Stack developer.
 - 🏃 Running and 📖 Studying in spare time.
 - 🌐 Personal website [link](https://reghini.dev/)
-- 🧐 Interested in data base administration and project architecture, currently focusing on backend and full stack development.
+- 🧐 Interested in dba and project architecture, currently focusing on backend and full stack development.
 - 💼 Junior Full Stack Java Developer at Anymarket (DB1 Group). [Job Opportunities at DB1](https://db1group.pinpointhq.com/refer/xr3dk)
 - 🎓 Associates Degree in System Analysis and Development - Unicesumar.
-- 🌱 Currently studying Java & Angular.
+- 🌱 Currently studying Java, Spring & Angular.
 
 # 🥸 About Me
 
 <p align="justify">
-As a beginner programmer I enjoy coding to solve simple daily problems, like concatenating text, doing repetitive work ou even searching for specific information on public apis. I started as a front-end developer with JavaScript, TypeScript and React before entering an ecommerce company, where I worked as a Support Analyst helping clients and evidentiating bugs and client improvement recomendations. Now I am working as a Junior Full Stack Java Developer learning and developing new functionalities at Anymarket.
+As a developer I enjoy coding to solve simple daily problems, like concatenating, formatting or analysing text, doing repetitive work ou even searching for specific information on public apis. I started as a front-end developer with JavaScript, TypeScript and React before entering an ecommerce company, where I worked as a Support Analyst helping clients and evidentiating bugs and client improvement recomendations. Now I am working as a Junior Full Stack Java Developer learning and developing new functionalities at Anymarket.
 Curently studying Java, Spring and Angular, but with some other tech on the line: rabitmq, aws, kafka and redis.
 </p>
 
@@ -45,11 +45,10 @@ Curently studying Java, Spring and Angular, but with some other tech on the line
 
 ### ⚛️ Frameworks
 
-<!-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) -->
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<!-- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 <!-- ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white) -->
 
 <!-- 
@@ -64,6 +63,7 @@ Curently studying Java, Spring and Angular, but with some other tech on the line
 ### 🐘 DBMS:
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 <br>
 <!-- 
@@ -88,7 +88,7 @@ Curently studying Java, Spring and Angular, but with some other tech on the line
 
 </p>
 
-## 🔗 Let's Connect
+### 🔗 Let's Connect
 
 <div align='left'>
 
