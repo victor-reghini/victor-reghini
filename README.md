@@ -4,9 +4,8 @@
 
 - 👨‍💻 A Self-taught Full Stack developer.
 - 🏃 Running and 📖 Studying in spare time.
-- 🌐 Personal website [link](https://reghini.dev/)
 - 🧐 Interested in dba and project architecture, currently focusing on backend and full stack development.
-- 💼 Junior Full Stack Java Developer at Anymarket (DB1 Group). [Job Opportunities at DB1](https://db1group.pinpointhq.com/refer/xr3dk)
+- 💼 Full Stack Java Developer at Anymarket (DB1 Group). [Job Opportunities at DB1](https://db1group.pinpointhq.com/refer/xr3dk)
 - 🎓 Associates Degree in System Analysis and Development - Unicesumar.
 - 🌱 Currently studying Java, Spring & Angular.
 
