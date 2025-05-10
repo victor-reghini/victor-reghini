@@ -1,26 +1,59 @@
-# 👋 Hello there
-<sup><sup>🤖 General Kenobi</sup></sup>
-<br>
+# VICTOR HUGO SILVA
+**Java Fullstack Developer (Mid-Level)**  
+📍 Anymarket (Maringá, Paraná, Brazil)  
 
-- 👨‍💻 A Self-taught Full Stack developer.
-- 🏃 Running and 📖 Studying in spare time.
-- 🧐 Interested in dba and project architecture, currently focusing on backend and full stack development.
-- 💼 Full Stack Java Developer at Anymarket (DB1 Group). [Job Opportunities at DB1](https://db1group.pinpointhq.com/refer/xr3dk)
-- 🎓 Associates Degree in System Analysis and Development - Unicesumar.
-- 🌱 Currently studying Java, Spring & Angular.
+<div align='left'>
+<a href="https://www.linkedin.com/in/victorhugoreghini/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+<a href="https://www.instagram.com/victor_reghini/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:victor.hugo.mrts@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
+</a>
 
-# 🥸 About Me
+</div>
 
-<p align="justify">
-As a developer I enjoy coding to solve simple daily problems, like concatenating, formatting or analysing text, doing repetitive work ou even searching for specific information on public apis. I started as a front-end developer with JavaScript, TypeScript and React before entering an ecommerce company, where I worked as a Support Analyst helping clients and evidentiating bugs and client improvement recomendations. Now I am working as a Junior Full Stack Java Developer learning and developing new functionalities at Anymarket.
-Curently studying Java, Spring and Angular, but with some other tech on the line: rabitmq, aws, kafka and redis.
-</p>
+## 🚀 PROFESSIONAL SUMMARY
+Fullstack developer with 3+ years experience including:
+- Backend maintenance and evolution using **Spring Boot**
+- Modern frontend using **Angular** and **React**
+- Strong knowlage in **PostgreSQL**
+- CI/CD pipelines with **Jenkins/Kubernetes**
 
-# 🧠 Skills
+## 💻 TECHNICAL SKILLS
+**Backend:** Java 8+, Spring Boot, Kafka, JUnit, Mockito  
+**Frontend:** Angular, TypeScript, JavaScript, HTML/CSS  
+**DevOps:** Docker, Kubernetes, AWS, PostgreSQL  
+**Methodologies:** Scrum, Kanban
+
+## 👨‍💻 WORK EXPERIENCE
+**ANYMARKET** - Fullstack Developer (2023-Present)  
+- Marketplace integration APIs development  
+- Performance optimization with Redis caching  
+- Kubernetes deployment
+
+**ANYMARKET** - Support Analyst (2022-2023)  
+- Client Support & Bug Reporting  
+- Log analysis with Kibana and ElasticSearch
+
+**PLENUS** - Fullstack PHP Developer (2022-2022)  
+- Laravel, SQL
+
+**UNID** - Frontend Web & Mobile Developer (2019-2021)  
+- React/React Native  
+- GraphQL
+
+## 🎓 EDUCATION
+Associate Degree in Systems Analysis and Development - Unicesumar (2021)
+
+### 🧠 Tags
 
 <p align="center">
 
-### ☕️ Languages
+<!--
+## ☕️ LANGUAGES-->
 
 <!-- ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)-->
 <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)-->
@@ -28,9 +61,9 @@ Curently studying Java, Spring and Angular, but with some other tech on the line
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<br>
+<!-- <br>
 
-### 💻 Front-End Development:
+## 💻 Front-End Development:-->
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,10 +73,10 @@ Curently studying Java, Spring and Angular, but with some other tech on the line
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 <br>
+
+## ⚛️ Frameworks
+
 -->
-
-### ⚛️ Frameworks
-
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -57,15 +90,15 @@ Curently studying Java, Spring and Angular, but with some other tech on the line
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 <br>
+
+## 🐘 DBMS:
+
 -->
-
-### 🐘 DBMS:
-
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-<br>
-<!-- 
+<!-- <br>
+
 ### 🐙 Softwares, Tools and Extras:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -86,19 +119,3 @@ Curently studying Java, Spring and Angular, but with some other tech on the line
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) -->
 
 </p>
-
-### 🔗 Let's Connect
-
-<div align='left'>
-
-<a href="https://www.linkedin.com/in/victorhugoreghini/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-<a href="mailto:victor.hugo.mrts@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/victor_reghini/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=mail style="margin-bottom: 5px;" />
-</a>
-
-</div>
