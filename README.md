@@ -1,6 +1,6 @@
 # VICTOR HUGO SILVA
-**Java Fullstack Developer (Mid-Level)**  
-📍 Anymarket (Maringá, Paraná, Brazil)  
+**Java Fullstack Developer**  
+📍 UEM (Maringá, Paraná, Brazil)  
 
 <div align='left'>
 <a href="https://www.linkedin.com/in/victorhugoreghini/" target="_blank">
@@ -16,7 +16,7 @@
 </div>
 
 ## 🚀 PROFESSIONAL SUMMARY
-Fullstack developer with 3+ years experience including:
+Fullstack developer with 5+ years experience including:
 - Backend maintenance and evolution using **Spring Boot**
 - Modern frontend using **Angular** and **React**
 - Strong knowlage in **PostgreSQL**
